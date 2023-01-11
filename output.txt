@@ -1,0 +1,29 @@
+Exercise one:
+
+Login: ddude
+Password: jflajdljfped
+Login successful
+Welcome Drum Dude
+
+Login: cdude
+Password: 111111
+Either the username or password is incorrect. You have 2 more attempts.
+Login: cdude
+Password: 11111
+Either the username or password is incorrect. You have 1 more attempts.
+Login: cdude
+Password: 111111
+Sorry. Incorrect login. Please contact the system administrator.
+
+Login: rpokemon
+Password: 2222
+Either the username or password is incorrect. You have 2 more attempts.
+Login: rpokemon
+Password: drow456
+Login successful
+Welcome Rayquazza Pokemon
+
+Exercise two:
+1 2 3 4 5
+E A B D C
+Process finished with exit code 0
